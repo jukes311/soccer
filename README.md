@@ -9,3 +9,13 @@ PostMan
 Visual Studio Code
 
 LinkedIn: https://www.linkedin.com/learning/mern-essential-training/
+
+Run Backend
+>cd backend
+>npm i
+>npm start
+
+Run Backend
+>cd frontend
+>npm i
+>npm start
